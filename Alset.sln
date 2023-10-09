@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alset.Api", "Alset.Api\Alset.Api.csproj", "{5DAD6725-F929-41A3-977A-4B0C754A1E2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alset.Entity", "Alset.Entity\Alset.Entity.csproj", "{9B791FCE-F3CB-4372-ACA9-99C6A744F1D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alset.Test", "Alset.Test\Alset.Test.csproj", "{0AEA9F04-3B93-429C-AC99-0CE49C8E2596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAD6725-F929-41A3-977A-4B0C754A1E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAD6725-F929-41A3-977A-4B0C754A1E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAD6725-F929-41A3-977A-4B0C754A1E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAD6725-F929-41A3-977A-4B0C754A1E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B791FCE-F3CB-4372-ACA9-99C6A744F1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B791FCE-F3CB-4372-ACA9-99C6A744F1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B791FCE-F3CB-4372-ACA9-99C6A744F1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B791FCE-F3CB-4372-ACA9-99C6A744F1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEA9F04-3B93-429C-AC99-0CE49C8E2596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEA9F04-3B93-429C-AC99-0CE49C8E2596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEA9F04-3B93-429C-AC99-0CE49C8E2596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEA9F04-3B93-429C-AC99-0CE49C8E2596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4BC6AB-A048-4EBF-8D7A-51CEF0F1AD5A}
+	EndGlobalSection
+EndGlobal
